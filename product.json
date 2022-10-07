@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Netflix Private UHD 4K",
+      "price": 50000,
+      "description": "lorem ipsum",
+      "category": "NETFLIX",
+      "image": "https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png"
+    },
+    {
+      "id": 2,
+      "title": "Netflix Private UHD 4K 1",
+      "price": 40000,
+      "description": "lorem ipsum",
+      "category": "NETFLIX",
+      "image": "https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png"
+    },
+    {
+      "id": 3,
+      "title": "Netflix Private UHD 4K 2",
+      "price": 20000,
+      "description": "lorem ipsum",
+      "category": "NETFLIX",
+      "image": "https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png"
+    }
+  ]
+}
